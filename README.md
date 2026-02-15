@@ -1,4 +1,4 @@
-# 🎓 Student Management System (Java Desktop)
+# Student Management System (Java Desktop)
 
 > **An advanced Java Swing application for academic administration, featuring binary object serialization for high-speed data persistence.**
 
